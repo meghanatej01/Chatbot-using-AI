@@ -24,29 +24,17 @@ This project is an AI-powered chatbot built using Flask, Transformers, and PyTor
 
 
 📂 Project Structure
-    AI-Chatbot/
-      │
-      ├── app.py
-      ├── templates/
-      │   └── index.html
-      ├── static/
-      │   ├── style.css
-      │   └── script.js
-      ├── requirements.txt
-      └── README.md
+    1. AI-Chatbot/
+            │
+            ├── app.py
+            ├── templates/
+            │   └── index.html
+            ├── static/
+            │   ├── style.css
+            │   └── script.js
+            ├── requirements.txt
+            └── README.md
 
-
-⚙️ Installation
- Clone the repository
-  git clone https://github.com/your-username/ai-chatbot.git
- Navigate to project folder
-  cd ai-chatbot
- Install dependencies
-  pip install -r requirements.txt
- Run the application
-  python app.py
- Open browser
-  http://127.0.0.1:5000/
 
 
 🎯 Future Improvements
