@@ -5,14 +5,16 @@ This project is an AI-powered chatbot built using Flask, Transformers, and PyTor
 The system processes user input, understands the context, and generates meaningful responses using deep learning models. Flask is used as the backend framework to handle requests and manage chatbot interactions efficiently.
 
 🚀 Features
-AI-powered conversational chatbot
-Built with Flask web framework
-Uses Transformers for NLP tasks
-PyTorch-based deep learning model
-Real-time chat interface
-Context-aware responses
-User-friendly UI
-Scalable backend architecture
+1. AI-powered conversational chatbot
+2. Built with Flask web framework
+3. Uses Transformers for NLP tasks
+4. PyTorch-based deep learning model
+5. Real-time chat interface
+6. Context-aware responses
+7. User-friendly UI
+8. Scalable backend architecture
+
+
 🛠️ Technologies Used
 Python
 Flask
@@ -21,6 +23,8 @@ PyTorch
 HTML
 CSS
 JavaScript
+
+
 📂 Project Structure
 AI-Chatbot/
 │
@@ -32,6 +36,8 @@ AI-Chatbot/
 │   └── script.js
 ├── requirements.txt
 └── README.md
+
+
 ⚙️ Installation
 Clone the repository
 git clone https://github.com/your-username/ai-chatbot.git
